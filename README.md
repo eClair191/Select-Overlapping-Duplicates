@@ -81,3 +81,4 @@ Selected: ['Cube.005', 'Sphere.002']
 ======================================================================
 ```
 
+**Development Note:** This addon was developed with the assistance of AI.
