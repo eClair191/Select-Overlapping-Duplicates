@@ -59,11 +59,6 @@ Objects matching these criteria from the selected collection are automatically s
 - Identifying overlapping objects from different sources
 - Quality control for asset libraries
 
-## Requirements
-
-- Blender 4.5.0 or higher
-- Works only with mesh objects (cameras, lights, empties are skipped)
-
 ## Console Output
 
 The addon provides detailed terminal output:
@@ -80,5 +75,7 @@ Total duplicates found: 2
 Selected: ['Cube.005', 'Sphere.002']
 ======================================================================
 ```
+
+Tested in Blender 4.5.3
 
 **Development Note:** This addon was developed with the assistance of AI.
